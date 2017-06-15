@@ -26,9 +26,11 @@ header {
 }
 .header-title {
   float: left;
+  border: solid 1px;
 }
 .header-menu {
   float: right;
+  border: solid 1px;
 }
 .header-menu li {
   float: left;
